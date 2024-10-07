@@ -1,8 +1,4 @@
 title: Phone Myat Kyaw Thu
 logo: photo.jpg
-theme: jekyll-theme-cayman
-markdown: kramdown
+theme: jekyll-theme-minimal
 
-# Link custom CSS for additional styling
-include:
-  - style.css

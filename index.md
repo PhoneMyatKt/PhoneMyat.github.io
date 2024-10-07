@@ -13,6 +13,12 @@ I am currently pursuing a Bachelor’s degree in Computer Science at the Univers
   
 ---
 
+## Certifications
+- **Complete Machine Learning and Data Science Zero to Mastery** (Udemy)
+- **Complete 2024 Web Development Bootcamp** (Udemy)
+  
+---
+
 ## Technical Skills
 - **Programming Languages**: Python, JavaScript, HTML, CSS
 - **Data Science & ML Libraries**: TensorFlow, Keras, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn
@@ -29,12 +35,6 @@ I am currently pursuing a Bachelor’s degree in Computer Science at the Univers
   
 ### [Cardiovascular Disease Detection](https://www.kaggle.com/code/phonemyatkyawthu/cardiovascular-disease-phone-myat-kyaw-thu)
 - **Description**: Developed a Deep Neural Network (DNN) model for classifying cardiovascular disease, achieving a 73.41% accuracy on the test dataset.
-  
----
-
-## Certifications
-- **Complete Machine Learning and Data Science Zero to Mastery** (Udemy)
-- **Complete 2024 Web Development Bootcamp** (Udemy)
   
 ---
 

@@ -25,5 +25,5 @@ I am currently pursuing a Bachelor’s degree in Computer Science at the Univers
 - **Complete 2024 Web Development Bootcamp** (Udemy)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/phonemyatkyawthu/)
 - [Kaggle](https://www.kaggle.com/phonemyatkyawthu)

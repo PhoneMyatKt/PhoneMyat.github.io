@@ -1,4 +1,9 @@
+---
+layout: default
+title: Data Science | Machine Learning
+---
 
+![Phone Myat Kyaw Thu](photo.jpg)
 
 # Data Science | Machine Learning
 

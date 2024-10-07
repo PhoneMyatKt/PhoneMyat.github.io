@@ -1,8 +1,7 @@
 title: Phone Myat Kyaw Thu 
-logo: ph.jpg
+logo: ph1.jpg
 theme: jekyll-theme-minimal
 include:
   - style.css
-  <link rel="stylesheet" href="style.css">
 
 

@@ -1,7 +1,5 @@
 # Data Science | Machine Learning
 
-I am an aspiring Data Scientist and Machine Learning Engineer with a background in data analysis, visualization, and model building. I am passionate about using data to drive insights and solve impactful problems.
-
 ## About Me
 I am currently pursuing a Bachelor’s degree in Computer Science at the University of Sunderland. Through various projects and coursework, I've developed strong skills in machine learning, data analysis, and Python programming.
 

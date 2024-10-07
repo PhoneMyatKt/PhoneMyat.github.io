@@ -1,8 +1,6 @@
 title: Phone Myat Kyaw Thu
-logo: photo.PNG
-#description
-show_downloads: true
-theme: jekyll-theme-minimal
+logo: photo.jpg
+theme: jekyll-theme-cayman
 
 include:
   - style.css

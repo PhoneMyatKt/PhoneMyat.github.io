@@ -1,0 +1,13 @@
+/* Justify all paragraph text in the portfolio */
+p {
+    text-align: justify;
+}
+
+/* Circular Profile Image */
+.site-logo img {
+    width: 150px; /* Adjust size as needed */
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}

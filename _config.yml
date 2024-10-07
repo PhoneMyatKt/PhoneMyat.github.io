@@ -3,4 +3,6 @@ logo: ph.jpg
 theme: jekyll-theme-minimal
 include:
   - style.css
+  <link rel="stylesheet" href="style.css">
+
 

@@ -1,6 +1,6 @@
 
 
-# Data Science | Machine Learning**
+# Data Science | Machine Learning
 
 I am an aspiring Data Scientist and Machine Learning Engineer with a background in data analysis, visualization, and model building. I am passionate about using data to drive insights and solve impactful problems.
 

@@ -35,6 +35,8 @@ I am currently pursuing a Bachelor’s degree in Computer Science at the Univers
   
 ### [Cardiovascular Disease Detection](https://www.kaggle.com/code/phonemyatkyawthu/cardiovascular-disease-phone-myat-kyaw-thu)
 - **Description**: Built a Deep Neural Network (DNN) model for cardiovascular disease classification, achieving 73.41% accuracy on the test dataset. The project includes exploratory data analysis (EDA), data normalization, visualizations to identify patterns, model building, and a detailed classification report.
+
+#### [View More Projects in Kaggle](https://www.kaggle.com/phonemyatkyawthu/code)
   
 ---
 

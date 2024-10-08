@@ -30,8 +30,8 @@ I am currently pursuing a Bachelor’s degree in Computer Science at the Univers
 ---
 
 ## Projects
-### [Titanic (kaggle-competition)](https://www.kaggle.com/code/phonemyatkyawthu/titanic-competition-phone-myat-kyaw-thu)
-- **Description**: Built a Random Forest Classifier to predict Dead or Alive, achieving 81.56% accuracy. Techniques include data preprocessing, visualization, and hyperparameter tuning.
+### [Email Spam Detection](https://www.kaggle.com/code/phonemyatkyawthu/email-spam-classification-phone-myat-kyaw-thu)
+- **Description**: Developed an email spam classification model using Naive Bayes with TF-IDF for feature extraction, achieving 100% accuracy. This project highlights skills in data analysis and data science, showcasing expertise in NLP and machine learning for effective text classification.
   
 ### [Cardiovascular Disease Detection](https://www.kaggle.com/code/phonemyatkyawthu/cardiovascular-disease-phone-myat-kyaw-thu)
 - **Description**: Developed a Deep Neural Network (DNN) model for classifying cardiovascular disease, achieving a 73.41% accuracy on the test dataset.

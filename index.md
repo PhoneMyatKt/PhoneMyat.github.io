@@ -1,8 +1,6 @@
 # Data Science | Machine Learning
 
----
-
-[Kaggle](https://www.kaggle.com/phonemyatkyawthu)
+[Kaggle Rank: Contributor](https://www.kaggle.com/phonemyatkyawthu)
 
 ---
 

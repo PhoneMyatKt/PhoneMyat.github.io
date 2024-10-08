@@ -29,7 +29,7 @@ I am currently pursuing a Bachelor’s degree in Computer Science at the Univers
 - **Database Management**: MySQL, NoSQL
 - **Machine Learning Techniques**: Supervised & Unsupervised Learning, Artificial Neural Networks (ANNs), Hyperparameter Tuning
 - **Data Visualization**: Matplotlib, Seaborn
-- **Version Control & Collaboration tool **: Git, GitHub, Google Colab
+- **Version Control**: Git, GitHub
   
 ---
 

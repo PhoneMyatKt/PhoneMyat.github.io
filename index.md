@@ -42,4 +42,4 @@ I am currently pursuing a Bachelor’s degree in Computer Science at the Univers
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/phonemyatkyawthu/)
-- [Kaggle](https://www.kaggle.com/phonemyatkyawthu)
+- [Email](phonemyat2705@gmail.com)

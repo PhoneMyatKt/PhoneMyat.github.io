@@ -1,5 +1,11 @@
 # Data Science | Machine Learning
 
+---
+
+[Kaggle](https://www.kaggle.com/phonemyatkyawthu)
+
+---
+
 ## About Me
 I am currently pursuing a Bachelor’s degree in Computer Science at the University of Sunderland. Through various projects and coursework, I've developed strong skills in machine learning, data analysis, and Python programming.
 

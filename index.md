@@ -27,9 +27,9 @@ I am currently pursuing a Bachelor’s degree in Computer Science at the Univers
 - **Programming Languages**: Python, JavaScript, HTML, CSS
 - **Data Science & ML Libraries**: TensorFlow, Keras, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn
 - **Database Management**: MySQL, NoSQL
-- **Machine Learning Techniques**: Supervised Learning, Unsupervised Learning, Deep Neural Networks (DNN), Hyperparameter Tuning (Grid Search CV, Random Search CV)
+- **Machine Learning Techniques**: Supervised & Unsupervised Learning, Artificial Neural Networks (ANNs), Hyperparameter Tuning
 - **Data Visualization**: Matplotlib, Seaborn
-- **Version Control**: Git, GitHub
+- **Version Control & Collaboration tool **: Git, GitHub, Google Colab
   
 ---
 

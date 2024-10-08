@@ -1,6 +1,7 @@
 title: Phone Myat Kyaw Thu 
 logo: image1.png
-description: [Kaggle](https://www.kaggle.com/phonemyatkyawthu)
+#description: "[Kaggle (Expert Rank)](https://www.kaggle.com/phonemyatkyawthu)"
+description: "[Kaggle](https://www.kaggle.com/phonemyatkyawthu)"
 theme: jekyll-theme-minimal
 include:
   - style.css

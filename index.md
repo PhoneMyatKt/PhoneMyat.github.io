@@ -31,10 +31,10 @@ I am currently pursuing a Bachelor’s degree in Computer Science at the Univers
 
 ## Projects
 ### [Email Spam Detection](https://www.kaggle.com/code/phonemyatkyawthu/email-spam-classification-phone-myat-kyaw-thu)
-- **Description**: Developed an email spam classification model using Naive Bayes with TF-IDF for feature extraction, achieving 100% accuracy. This project highlights skills in data analysis and data science, showcasing expertise in NLP and machine learning for effective text classification.
+- **Description**: Developed a high-accuracy email spam detection model with 100% accuracy on the test dataset. Leveraged TF-IDF for effective feature extraction and applied Naive Bayes for text classification, demonstrating skills in data analysis, NLP, and machine learning model evaluation.
   
 ### [Cardiovascular Disease Detection](https://www.kaggle.com/code/phonemyatkyawthu/cardiovascular-disease-phone-myat-kyaw-thu)
-- **Description**: Developed a Deep Neural Network (DNN) model for classifying cardiovascular disease, achieving a 73.41% accuracy on the test dataset.
+- **Description**: Built a Deep Neural Network (DNN) model for cardiovascular disease classification, achieving 73.41% accuracy on the test dataset. The project includes exploratory data analysis (EDA), data normalization, visualizations to identify patterns, model building, and a detailed classification report.
   
 ---
 

@@ -28,7 +28,7 @@ I am currently pursuing a Bachelor’s degree in Computer Science at the Univers
 - **Data Science & ML Libraries**: TensorFlow, Keras, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn
 - **Database Management**: MySQL, NoSQL
 - **Machine Learning Techniques**: Supervised & Unsupervised Learning, Artificial Neural Networks (ANNs), Hyperparameter Tuning
-- **Data Visualization**: Matplotlib, Seaborn
+- **Data Visualization**: Matplotlib, Seaborn, Excel, Power BI
 - **Version Control**: Git, GitHub
   
 ---
